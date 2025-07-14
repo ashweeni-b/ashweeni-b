@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashweeni Bharde</h1>
+![Profile Header](https://github.com/ashweeni-b/ashweeni-b/blob/main/header.png)
+
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">Final Year Computer Engineering Student preparing for SDE roles</h3> 
 
 ___
