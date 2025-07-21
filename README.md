@@ -1,6 +1,6 @@
 ![Profile Header](https://github.com/ashweeni-b/ashweeni-b/blob/main/header.png)
 
-<h4 align="center">Final Year Computer Engineering Student </h4> 
+<h2 align="center">Final Year Computer Engineering Student </h2> 
 
 ___
 
