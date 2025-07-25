@@ -4,8 +4,6 @@
 
 ___
 
-- 🔭 I’m currently working on **Git Playground**
-
 - 🌱 I’m currently learning **Git and GitHub**
 ___
 
