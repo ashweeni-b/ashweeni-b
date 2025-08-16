@@ -4,7 +4,7 @@
 
 ___
 
-- 🌱 I’m currently learning **Git and GitHub**
+- 🌱 I’m currently learning **C Programming Language**
 ___
 
 <h3 align="left">Connect with me:</h3>
