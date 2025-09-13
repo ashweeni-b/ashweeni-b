@@ -6,11 +6,11 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Final Year Computer Engineering Student (7th Semester)  
-- 🔭 Currently working on **Git Practice Project**  
+- 🔭 Currently working on **Hands-on C Practice**  
 - 🌱 Currently learning **C**  
 - 🎯 Preparing for **SDE roles**  
 - 📚 Passionate about **Software Development & Data Science**  
-- ✨ Exploring **Sanskrit learning**
+- ✨ Exploring **Sanskrit language**
 
 ---
 
@@ -29,12 +29,12 @@
 
 ---
 
-<!-- ## 📌 Projects  
-- 🔧 **Git Practice Project** – Hands-on Git commands & notes  
-- 🧩 **C & C++ Playground** – Core programming practice  
-- 🌱 *(More projects coming soon...)*  
+## 📌 Projects  
+- **Git Practice Project** – Hands-on Git commands  
+<!-- - 🧩 **C & C++ Playground** – Core programming practice  
+- 🌱 *(More projects coming soon...)*  -->
 
---- -->
+--- 
 
 ## 📈 Learning Journey  
 - 🔗 Weekly progress updates as part of my **#CodeToCareer** series  
