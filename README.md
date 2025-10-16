@@ -6,7 +6,6 @@
 
 ## 👨‍💻 About Me  
 - 🎓 Final Year Computer Engineering Student (7th Semester)  
-- 🔭 Currently working on **Hands-on C Practice**  
 - 🌱 Currently learning **C**  
 - 🎯 Preparing for **SDE roles**  
 - 📚 Passionate about **Software Development & Data Science**  
